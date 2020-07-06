@@ -1,0 +1,24 @@
+USAGE
+    ./my_runner map
+    ./my_runner -i
+
+    It's a infinite platform game with limited character's controls.
+    you can move your character to avoid some enemies.
+
+    -i	: It's an infinity random map.
+    map : It's a file wich contain your owner map.
+          If you want to create your map -> read .legend
+
+CONTROLER
+
+    Z       : Jump
+    SPACE   : Jump
+    Q       : Left
+    S       : Slide
+    D       : Right
+    P       : Increase the volume
+    M       : Decrease the volume
+    ESC     : Exit game
+
+--------------
+HIGH SCORE : 00200
